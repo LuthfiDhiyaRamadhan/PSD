@@ -1,0 +1,22 @@
+[
+    {
+        "kategori": "Muwakif Terbaik",
+        "karakteristik": "Wakif yang berkontribusi dalam jumlah besar dan frekuensi yang sering.",
+        "strategi_pelayanan": "Berikan penghargaan khusus, undang mereka ke acara eksklusif, serta tampilkan kisah inspiratif kontribusi mereka."
+    },
+    {
+        "kategori": "Muwakif Loyal",
+        "karakteristik": "Wakif yang rutin berkontribusi dengan nominal yang cukup signifikan.",
+        "strategi_pelayanan": "Kirimkan laporan perkembangan program secara rutin dan tawarkan partisipasi dalam program-program baru."
+    },
+    {
+        "kategori": "Muwakif Potensial",
+        "karakteristik": "Wakif baru atau yang memiliki potensi untuk menjadi lebih rutin, terutama jika sudah berkontribusi lebih dari sekali.",
+        "strategi_pelayanan": "Berikan penghargaan awal atau ajak mereka untuk bergabung dalam program keanggotaan dan libatkan dalam program-program tambahan."
+    },
+    {
+        "kategori": "Muwakif Rentan",
+        "karakteristik": "Wakif yang mulai jarang berkontribusi atau berisiko tidak aktif.",
+        "strategi_pelayanan": "Kirimkan pesan personal dengan cerita dampak dari kontribusi mereka, tawarkan informasi terbaru program, dan dorong mereka untuk kembali aktif."
+    }
+]
